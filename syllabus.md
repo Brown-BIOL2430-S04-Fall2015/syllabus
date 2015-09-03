@@ -20,7 +20,7 @@ Classes will consist of discussions, labs that examine these tools, and student 
 
 ## Course site
 
-All materials for the course, including the syllabus, are available at [https://bitbucket.org/caseywdunn/data_interaction]. The [syllabus](https://bitbucket.org/caseywdunn/data_interaction/src/master/syllabus.md) will be updated as the course progresses, please check it weekly. Please submit suggestions and corrections for the class via the [issue tracker](https://bitbucket.org/caseywdunn/data_interaction/issues).
+All materials for the course, including the syllabus, are available at the [course site](https://bitbucket.org/caseywdunn/data_interaction). The [syllabus](https://bitbucket.org/caseywdunn/data_interaction/src/master/syllabus.md) will be updated as the course progresses, please check it weekly. Please submit suggestions and corrections for the class via the [issue tracker](https://bitbucket.org/caseywdunn/data_interaction/issues).
 
 ## Projects
 
