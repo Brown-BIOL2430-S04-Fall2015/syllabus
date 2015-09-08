@@ -16,7 +16,7 @@
 
 Science is becoming more data intensive, and at the same time new tools are allowing scientists to interact with data in new ways. This seminar will explore the potential impacts of these new ways of interacting with data on the practice of science, how these approaches can be used most effectively (with an emphasis on design and human perception), and introduce students to some tools that embody these changes, including version control (https://git-scm.com/), executable manuscripts (http://yihui.name/knitr/), and interactive visualizations (http://d3js.org/).
 
-Please complete the [survey](http://goo.gl/forms/wf8AyzW8nw) if you intend to register or sit in on the seminar.
+Please complete the [survey](http://goo.gl/forms/wf8AyzW8nw) if you register for or intend to sit in on the seminar.
 
 ## Class format
 
