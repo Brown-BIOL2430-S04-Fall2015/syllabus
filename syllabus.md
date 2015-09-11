@@ -53,12 +53,13 @@ Reading: Murray - chapters 1, 2
 Intro to class, description of final projects
 
 Investigators interact with data in several ways:
+
 - Data management and wrangling
 - Data exploration
 - Data explanation
 - Communication and sharing of data and results
 
-Designing analyses, implementing analyses, and running analyses are often treated as the same task. In many studies, the investigator moves data through each stage of analysis by hand, which takes a long time and is error prone. Automated and interactive analyses separate the design/implementation of analyses from running analyses, and make running analyses very easy and reliable. This means that you can repeatedly run analyses before you collect your data (using simulations or other datasets), as you collect your data (to check data quality and assess how many more data are needed), and after you collect your data (to refine and extend analyses). This doesn't just speed up analyses, it fundamentally changes the way they are approached.
+Designing analyses, implementing analyses, and running analyses are often treated as different tasks. In many studies, the investigator moves data through each stage of analysis by hand, which takes a long time and is error prone. Automated and interactive analyses separate the design/implementation of analyses from running analyses, and make running analyses very easy and reliable. This means that you can repeatedly run analyses before you collect your data (using simulations or other datasets), as you collect your data (to check data quality and assess how many more data are needed), and after you collect your data (to refine and extend analyses). This doesn't just speed up analyses, it fundamentally changes the way they are approached.
 
 
 
