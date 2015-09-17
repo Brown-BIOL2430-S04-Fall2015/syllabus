@@ -27,6 +27,13 @@
 		"description":"An illustration of the Central Limit Theorem, where potion is used to convey a sampling process.",
 		"submitter":{"name":"Casey Dunn", "url":"https://twitter.com/caseywdunn"},
 		"implementation":["d3js"]
+	},
+
+	{
+		"url":"https://vimeo.com/120429438",
+		"description":"Motion is used to convey how information moves through an analysis",
+		"submitter":{"name":"Casey Dunn", "url":"https://twitter.com/caseywdunn"},
+		"implementation":["http://snapsvg.io"]
 	}
 
 
