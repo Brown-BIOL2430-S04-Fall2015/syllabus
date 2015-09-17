@@ -1,0 +1,24 @@
+{"visuals": [
+	{
+		"url":"",
+		"description":"",
+		"submitter":{"name":"", "url":""},
+		"implementation":[]
+	},
+
+	{
+		"url":"https://vimeo.com/32141458",
+		"description":"Map showing GPS tracked London taxis",
+		"submitter":{"name":"Catriona Munro", "url":"https://twitter.com/CatMunro_"},
+		"implementation":[]
+	},
+
+	{
+		"url":"http://www.radicalcartography.net/index.html?chicagodots",
+		"description":"Chicago neighborhoods",
+		"submitter":{"name":"Catriona Munro", "url":"https://twitter.com/CatMunro_"},
+		"implementation":[]
+	}
+
+
+]}
