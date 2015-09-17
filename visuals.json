@@ -55,6 +55,13 @@
 		"description":"See the 'Hack Your Way To Scientific Glory' section where you can find a significant p-value by playing with the data",
 		"submitter":{"name":"Leslie Brick", "url":"https://bitbucket.org/lbrick/"},
 		"implementation":[]
+	},
+
+	{
+		"url":"https://www.youtube.com/watch?v=CCmTY0PKGDs",
+		"description":"Ocean Currents",
+		"submitter":{"name":"Alejandro Damián Serrano", "url":"https://twitter.com/antropoteuthis"},
+		"implementation":[]
 	}
 
 
