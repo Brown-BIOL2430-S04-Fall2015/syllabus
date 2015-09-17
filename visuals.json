@@ -1,4 +1,6 @@
-{"visuals": [
+{
+"note": "A collection of data visualizations from around the web, as suggested by participants in the course."
+"visuals": [
 	{
 		"url":"",
 		"description":"",
@@ -18,6 +20,13 @@
 		"description":"Chicago neighborhoods",
 		"submitter":{"name":"Catriona Munro", "url":"https://twitter.com/CatMunro_"},
 		"implementation":[]
+	},
+
+	{
+		"url":"http://www.mpe.mpg.de/~pmplewa/showcase/clt/",
+		"description":"An illustration of the Central Limit Theorem, where potion is used to convey a sampling process.",
+		"submitter":{"name":"Casey Dunn", "url":"https://twitter.com/caseywdunn"},
+		"implementation":["d3js"]
 	}
 
 
