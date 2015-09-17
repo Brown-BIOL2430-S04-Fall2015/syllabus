@@ -120,7 +120,32 @@
 		"submitter":{"name":"Tyler Devlin", "url":""},
 		"implementation":[],
 		"attributes":[]
-	}
+	},
+
+	{
+		"url":"http://setosa.io/ev/principal-component-analysis/",
+		"description":"An interactive way of conceptually understanding PCA",
+		"submitter":{"name":"Jack Diedrich", "url":""},
+		"implementation":[],
+		"attributes":[]
+	},
+
+	{
+		"url":"http://joshworth.com/dev/pixelspace/pixelspace_solarsystem.html",
+		"description":"A interactive understanding of distance in the solar system scaled to pixels",
+		"submitter":{"name":"Jack Diedrich", "url":""},
+		"implementation":[],
+		"attributes":[]
+	},
+
+	{
+		"url":"https://www.youtube.com/watch?v=j9JXtTj0mzE",
+		"description":"A tool that utilizes computer graphics as well as raw materials that has applications in topography and geology",
+		"submitter":{"name":"Jack Diedrich", "url":""},
+		"implementation":[],
+		"attributes":[]
+	},
+
 
 
 
