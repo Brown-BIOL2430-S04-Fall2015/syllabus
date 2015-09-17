@@ -34,7 +34,23 @@
 		"description":"Motion is used to convey how information moves through an analysis",
 		"submitter":{"name":"Casey Dunn", "url":"https://twitter.com/caseywdunn"},
 		"implementation":["http://snapsvg.io"]
-	}
+	},
+
+	{
+		"url":"http://www.chrisjordan.com/gallery/rtn2/#bees",
+		"description":"More about art than science, but a compelling way to convey sheer numbers.",
+		"submitter":{"name":"Robert Lamb", "url":"https://bitbucket.org/robert_lamb/"},
+		"implementation":[]
+	},
+
+	{
+		"url":"http://www.chrisjordan.com/gallery/rtn/#silent-spring",
+		"description":"More about art than science, but a compelling way to convey sheer numbers.",
+		"submitter":{"name":"Robert Lamb", "url":"https://bitbucket.org/robert_lamb/"},
+		"implementation":[]
+	},
+
+	
 
 
 ]}
