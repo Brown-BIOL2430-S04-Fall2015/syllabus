@@ -1,5 +1,5 @@
 {
-"note": "A collection of data visualizations from around the web, as suggested by participants in the course."
+"note": "A collection of data visualizations from around the web, as suggested by participants in the course"
 "visuals": [
 	{
 		"url":"",
@@ -13,56 +13,64 @@
 		"url":"https://vimeo.com/32141458",
 		"description":"Map showing GPS tracked London taxis",
 		"submitter":{"name":"Catriona Munro", "url":"https://twitter.com/CatMunro_"},
-		"implementation":[]
+		"implementation":[],
+		"attributes":[]
 	},
 
 	{
 		"url":"http://www.radicalcartography.net/index.html?chicagodots",
 		"description":"Chicago neighborhoods",
 		"submitter":{"name":"Catriona Munro", "url":"https://twitter.com/CatMunro_"},
-		"implementation":[]
+		"implementation":[],
+		"attributes":[]
 	},
 
 	{
 		"url":"http://www.mpe.mpg.de/~pmplewa/showcase/clt/",
-		"description":"An illustration of the Central Limit Theorem, where potion is used to convey a sampling process.",
+		"description":"An illustration of the Central Limit Theorem, where motion is used to convey a sampling process",
 		"submitter":{"name":"Casey Dunn", "url":"https://twitter.com/caseywdunn"},
-		"implementation":["d3js"]
+		"implementation":["d3js"],
+		"attributes":[]
 	},
 
 	{
 		"url":"https://vimeo.com/120429438",
 		"description":"Motion is used to convey how information moves through an analysis",
 		"submitter":{"name":"Casey Dunn", "url":"https://twitter.com/caseywdunn"},
-		"implementation":["http://snapsvg.io"]
+		"implementation":["http://snapsvg.io"],
+		"attributes":[]
 	},
 
 	{
 		"url":"http://www.chrisjordan.com/gallery/rtn2/#bees",
-		"description":"More about art than science, but a compelling way to convey sheer numbers.",
+		"description":"More about art than science, but a compelling way to convey sheer numbers",
 		"submitter":{"name":"Robert Lamb", "url":"https://bitbucket.org/robert_lamb/"},
-		"implementation":[]
+		"implementation":[],
+		"attributes":[]
 	},
 
 	{
 		"url":"http://www.chrisjordan.com/gallery/rtn/#silent-spring",
-		"description":"More about art than science, but a compelling way to convey sheer numbers.",
+		"description":"More about art than science, but a compelling way to convey sheer numbers",
 		"submitter":{"name":"Robert Lamb", "url":"https://bitbucket.org/robert_lamb/"},
-		"implementation":[]
+		"implementation":[],
+		"attributes":[]
 	},
 
 	{
 		"url":"http://fivethirtyeight.com/features/science-isnt-broken/",
 		"description":"See the 'Hack Your Way To Scientific Glory' section where you can find a significant p-value by playing with the data",
 		"submitter":{"name":"Leslie Brick", "url":"https://bitbucket.org/lbrick/"},
-		"implementation":[]
+		"implementation":[],
+		"attributes":[]
 	},
 
 	{
 		"url":"https://www.youtube.com/watch?v=CCmTY0PKGDs",
 		"description":"Ocean Currents",
 		"submitter":{"name":"Alejandro Damián Serrano", "url":"https://twitter.com/antropoteuthis"},
-		"implementation":[]
+		"implementation":[],
+		"attributes":[]
 	},
 
 	{
@@ -70,8 +78,42 @@
 		"description":"Parable of the Polygons",
 		"submitter":{"name":"Jamie Zhang", "url":""},
 		"implementation":[],
-		"attributes":["interactive"]
+		"attributes":["interactive"],
+		"attributes":[]
+	},
+
+	{
+		"url":"http://www.nytimes.com/interactive/2015/09/14/world/middleeast/syria-war-deaths.html",
+		"description":"Simple but powerful visualization on deaths in Syria",
+		"submitter":{"name":"Felipe Zapata", "url":"https://twitter.com/zapata_f"},
+		"implementation":[],
+		"attributes":[]
+	},
+
+	{
+		"url":"http://moebio.com/research/sevensets/",
+		"description":"7 sets Venn Diagram",
+		"submitter":{"name":"Felipe Zapata", "url":"https://twitter.com/zapata_f"},
+		"implementation":[],
+		"attributes":[]
+	},
+
+	{
+		"url":"https://vimeo.com/48919422",
+		"description":"A creative way to present a year of location-tracking data",
+		"submitter":{"name":"Felipe Zapata", "url":"https://twitter.com/zapata_f"},
+		"implementation":[],
+		"attributes":[]
+	},
+
+	{
+		"url":"https://www.scientificamerican.com/media/multimedia/0913-food-transit/#stories",
+		"description":"Where do fruits and veggies we eat in the US come from?",
+		"submitter":{"name":"Felipe Zapata", "url":"https://twitter.com/zapata_f"},
+		"implementation":[],
+		"attributes":[]
 	}
+
 
 
 ]}
