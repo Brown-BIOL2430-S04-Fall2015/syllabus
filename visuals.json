@@ -170,7 +170,21 @@
 		"attributes":[]
 	},
 
-	
+	{
+		"url":"http://htwins.net/scale2/",
+		"description":"Interactive comparison of the sizes of natural and man-made things",
+		"submitter":{"name":"KC Cushman", "url":""},
+		"implementation":[],
+		"attributes":[]
+	},
+
+	{
+		"url":"http://mbtaviz.github.io/",
+		"description":"Tracks the movement of MBTA train cars over the course of the day",
+		"submitter":{"name":"KC Cushman", "url":""},
+		"implementation":[],
+		"attributes":[]
+	}
 
 
 
