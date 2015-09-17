@@ -146,6 +146,22 @@
 		"attributes":[]
 	},
 
+	{
+		"url":"https://podio.com/site/creative-routines",
+		"description":"A day in the life of famous creative people",
+		"submitter":{"name":"Denise Yoon", "url":""},
+		"implementation":[],
+		"attributes":[]
+	},
+
+	{
+		"url":"https://vimeo.com/79098420",
+		"description":"Fun video that shows how generations of computer simulations of bipedal models learn how to walk in different environments",
+		"submitter":{"name":"Denise Yoon", "url":""},
+		"implementation":[],
+		"attributes":[]
+	}
+
 
 
 
