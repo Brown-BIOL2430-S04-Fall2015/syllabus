@@ -5,7 +5,8 @@
 		"url":"",
 		"description":"",
 		"submitter":{"name":"", "url":""},
-		"implementation":[]
+		"implementation":[],
+		"attributes":[]
 	},
 
 	{
@@ -62,6 +63,14 @@
 		"description":"Ocean Currents",
 		"submitter":{"name":"Alejandro Damián Serrano", "url":"https://twitter.com/antropoteuthis"},
 		"implementation":[]
+	},
+
+	{
+		"url":"http://ncase.me/polygons/",
+		"description":"Parable of the Polygons",
+		"submitter":{"name":"Jamie Zhang", "url":""},
+		"implementation":[],
+		"attributes":["interactive"]
 	}
 
 
