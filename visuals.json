@@ -112,6 +112,14 @@
 		"submitter":{"name":"Felipe Zapata", "url":"https://twitter.com/zapata_f"},
 		"implementation":[],
 		"attributes":[]
+	},
+
+	{
+		"url":"http://simplystatistics.org/2014/02/13/loess-explained-in-a-gif/",
+		"description":"LOESS explained",
+		"submitter":{"name":"Tyler Devlin", "url":""},
+		"implementation":[],
+		"attributes":[]
 	}
 
 
