@@ -50,7 +50,12 @@
 		"implementation":[]
 	},
 
-	
+	{
+		"url":"http://fivethirtyeight.com/features/science-isnt-broken/",
+		"description":"See the 'Hack Your Way To Scientific Glory' section where you can find a significant p-value by playing with the data",
+		"submitter":{"name":"Leslie Brick", "url":"https://bitbucket.org/lbrick/"},
+		"implementation":[]
+	}
 
 
 ]}
