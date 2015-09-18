@@ -49,6 +49,7 @@ Haddock, SHD and CW Dunn (2011). Practical Computing for Biologists. [amazon](ht
 ### September 11 - The practice of working with data and the landscape of scientific publishing
 
 Reading: Murray - chapters 1, 2
+Assignment: In the next couple days, use the issue tracker to submit a visualization or two that you particularly like.
 
 Intro to class, description of final projects
 
@@ -78,13 +79,22 @@ Other recent developments:
 
 What are missing publication models?
 
-### September 18 - Version control with git
+### September 18 - Version control with git; Survey of visualizations 
 
 Reading - Haddock and Dunn, chapter 4 and new chapter
 
-### September 25 - Data wrangling
+Walk through git example
 
-Reading - Tidy Data- http://www.jstatsoft.org/v59/i10/paper; Haddock and Dunn, chapter 1-3, pages 255-260
+Intro to markdown
+
+Discuss participant-submitted visualizations
+
+
+### September 25 - Data wrangling; web fundamentals
+
+Reading - Tidy Data- http://www.jstatsoft.org/v59/i10/paper; 
+Haddock and Dunn, chapter 1-3, pages 255-260;
+Murray chapter 3
 
 ### October 2 - Executable manuscripts
 

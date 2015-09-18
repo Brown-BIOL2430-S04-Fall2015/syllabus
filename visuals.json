@@ -14,7 +14,7 @@
 		"description":"Map showing GPS tracked London taxis",
 		"submitter":{"name":"Catriona Munro", "url":"https://twitter.com/CatMunro_"},
 		"implementation":[],
-		"attributes":[]
+		"attributes":["geospatial", "temporal"]
 	},
 
 	{
@@ -22,15 +22,15 @@
 		"description":"Chicago neighborhoods",
 		"submitter":{"name":"Catriona Munro", "url":"https://twitter.com/CatMunro_"},
 		"implementation":[],
-		"attributes":[]
+		"attributes":["geospatial"]
 	},
 
 	{
 		"url":"http://www.mpe.mpg.de/~pmplewa/showcase/clt/",
 		"description":"An illustration of the Central Limit Theorem, where motion is used to convey a sampling process",
 		"submitter":{"name":"Casey Dunn", "url":"https://twitter.com/caseywdunn"},
-		"implementation":["d3js"],
-		"attributes":[]
+		"implementation":["http://d3js.org"],
+		"attributes":["interactive", "process"]
 	},
 
 	{
@@ -38,7 +38,7 @@
 		"description":"Motion is used to convey how information moves through an analysis",
 		"submitter":{"name":"Casey Dunn", "url":"https://twitter.com/caseywdunn"},
 		"implementation":["http://snapsvg.io"],
-		"attributes":[]
+		"attributes":["process"]
 	},
 
 	{
@@ -62,7 +62,8 @@
 		"description":"See the 'Hack Your Way To Scientific Glory' section where you can find a significant p-value by playing with the data",
 		"submitter":{"name":"Leslie Brick", "url":"https://bitbucket.org/lbrick/"},
 		"implementation":[],
-		"attributes":[]
+		"attributes":["interactive"],
+		"notes":"See http://projects.fivethirtyeight.com/p-hacking/index.html for the visualization bit"
 	},
 
 	{
@@ -95,7 +96,7 @@
 		"description":"7 sets Venn Diagram",
 		"submitter":{"name":"Felipe Zapata", "url":"https://twitter.com/zapata_f"},
 		"implementation":[],
-		"attributes":[]
+		"attributes":["interactive"]
 	},
 
 	{
@@ -110,15 +111,15 @@
 		"url":"https://www.scientificamerican.com/media/multimedia/0913-food-transit/#stories",
 		"description":"Where do fruits and veggies we eat in the US come from?",
 		"submitter":{"name":"Felipe Zapata", "url":"https://twitter.com/zapata_f"},
-		"implementation":[],
-		"attributes":[]
+		"implementation":["http://d3js.org"],
+		"attributes":["interactive"]
 	},
 
 	{
 		"url":"http://simplystatistics.org/2014/02/13/loess-explained-in-a-gif/",
 		"description":"LOESS explained",
 		"submitter":{"name":"Tyler Devlin", "url":""},
-		"implementation":[],
+		"implementation":["R"],
 		"attributes":[]
 	},
 
