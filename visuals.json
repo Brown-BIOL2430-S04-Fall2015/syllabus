@@ -1,5 +1,5 @@
 {
-"note": "A collection of data visualizations from around the web, as suggested by participants in the course"
+"note": "A collection of data visualizations from around the web, as suggested by participants in the course",
 "visuals": [
 	{
 		"url":"",
@@ -232,12 +232,15 @@
 		"submitter":{"name":"John Zinda", "url":""},
 		"implementation":[],
 		"attributes":[]
+	},
+
+	{
+		"url":"http://dataaddict.fr/prenoms/",
+		"description":"60 years of names in France",
+		"submitter":{"name":"Rebecca Wang", "url":""},
+		"implementation":[],
+		"attributes":[]
 	}
-
-
-
-
-
 
 
 ]}
