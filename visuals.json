@@ -253,6 +253,14 @@
 	},
 
 	{
+		"url":"http://www.theatlantic.com/health/archive/2013/10/a-real-time-map-of-births-and-deaths/280609/",
+		"description":"Simulation of average birth and death rates by country",
+		"submitter":{"name":"Daniel Kunin", "url":""},
+		"implementation":[],
+		"attributes":[]
+	},
+
+	{
 		"url":"",
 		"description":"",
 		"submitter":{"name":"", "url":""},
