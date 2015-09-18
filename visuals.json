@@ -1,13 +1,6 @@
 {
 "note": "A collection of data visualizations from around the web, as suggested by participants in the course",
 "visuals": [
-	{
-		"url":"",
-		"description":"",
-		"submitter":{"name":"", "url":""},
-		"implementation":[],
-		"attributes":[]
-	},
 
 	{
 		"url":"https://vimeo.com/32141458",
@@ -247,6 +240,22 @@
 		"url":"https://pfalkingham.wordpress.com/page/3/ or https://www.youtube.com/watch?t=9&v=vv2cv4FD2pE",
 		"description":"3D animations of dinosaur tracks",
 		"submitter":{"name":"Christopher Arellano", "url":""},
+		"implementation":[],
+		"attributes":[]
+	},
+
+	{
+		"url":"http://www.bloomberg.com/graphics/2015-whats-warming-the-world/",
+		"description":"What's warming the world?",
+		"submitter":{"name":"Carlos Silva", "url":""},
+		"implementation":[],
+		"attributes":[]
+	},
+
+	{
+		"url":"",
+		"description":"",
+		"submitter":{"name":"", "url":""},
 		"implementation":[],
 		"attributes":[]
 	}
