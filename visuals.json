@@ -216,7 +216,24 @@
 		"submitter":{"name":"Xiaojun Meng", "url":""},
 		"implementation":["d3js"],
 		"attributes":[]
+	},
+
+	{
+		"url":"http://www.nytimes.com/interactive/2014/06/05/upshot/how-the-recession-reshaped-the-economy-in-255-charts.html",
+		"description":"A breakdown of how different employment sectors have fared since the 2008 economic crash",
+		"submitter":{"name":"John Zinda", "url":""},
+		"implementation":[],
+		"attributes":[]
+	},
+
+	{
+		"url":"http://www.nytimes.com/interactive/2014/11/23/us/north-dakota-oil-boom-downside.html?_r=0",
+		"description":"Interactive maps of oil spills in North Dakota in the last few years",
+		"submitter":{"name":"John Zinda", "url":""},
+		"implementation":[],
+		"attributes":[]
 	}
+
 
 
 
