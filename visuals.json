@@ -200,6 +200,22 @@
 		"submitter":{"name":"Stephen Rong", "url":""},
 		"implementation":[],
 		"attributes":[]
+	},
+
+	{
+		"url":"http://bl.ocks.org/mbostock/4060606",
+		"description":"A map of US unemployment rate",
+		"submitter":{"name":"Xiaojun Meng", "url":""},
+		"implementation":["d3js"],
+		"attributes":[]
+	},
+
+	{
+		"url":"http://cs.brown.edu/courses/csci1951-a/assignments/assignment4/",
+		"description":"A twitter sentiment score map",
+		"submitter":{"name":"Xiaojun Meng", "url":""},
+		"implementation":["d3js"],
+		"attributes":[]
 	}
 
 
