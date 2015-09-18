@@ -184,7 +184,25 @@
 		"submitter":{"name":"KC Cushman", "url":""},
 		"implementation":[],
 		"attributes":[]
+	},
+
+	{
+		"url":"http://pantheon.media.mit.edu/treemap/country_exports/ZA/all/-4000/2010/H15/pantheon",
+		"description":"Mapping Historical Culture",
+		"submitter":{"name":"Stephen Rong", "url":""},
+		"implementation":[],
+		"attributes":[]
+	},
+
+	{
+		"url":"http://www.therefugeeproject.org/#/2012",
+		"description":"Mapping Refugee Populations",
+		"submitter":{"name":"Stephen Rong", "url":""},
+		"implementation":[],
+		"attributes":[]
 	}
+
+
 
 
 
