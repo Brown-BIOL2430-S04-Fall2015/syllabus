@@ -10,7 +10,7 @@
 	Khoo Multimedia Lab (Room N320), Granoff Center
 	
 	Instructor: Casey Dunn
-	Office hours: Monday 12:30-2:30PM, Room 301, Walter Hall (80 Waterman St.)
+	Office hours: Monday 1:00-2:30PM, Room 301, Walter Hall (80 Waterman St.)
 	Prepend the subject line of all course related emails with "data: "
 
 
@@ -92,7 +92,7 @@ Discuss participant-submitted visualizations
 
 ### September 25 - Data wrangling; web fundamentals
 
-Reading - Tidy Data- http://www.jstatsoft.org/v59/i10/paper; 
+Reading - Tidy Data- http://vita.had.co.nz/papers/tidy-data.html ; 
 Haddock and Dunn, chapter 1-3, pages 255-260;
 Murray chapter 3
 
