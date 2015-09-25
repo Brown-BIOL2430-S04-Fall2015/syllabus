@@ -1,0 +1,134 @@
+Agalma elegans
+Frillagalma vitiazi
+Cordagalma tottoni
+Shortia galacifolia
+Mus musculus
+
+Challenge:
+Shorten to A. elegans format
+
+Can't just search and replace 'galma' with .
+
+###############################################################
+
+Introduce \w wildcard to delete compass directions
+
++40 46'N +014 15'E
++21 17'N -157 52'W
+
+Try \w first
+
+then try '\w replaced by '
+
+###############################################################
+
+
+5th
+3rd
+2nd
+4th
+
+Introduce capture ()
+
+Reduce to just numbers:
+
+(\w)\w\w	\1
+
+
+###############################################################
+Revisit original challenge:
+
+Agalma elegans
+Frillagalma vitiazi
+Cordagalma tottoni
+Shortia galacifolia
+Mus musculus
+
+Challenge:
+Shorten to A. elegans format
+
+Introduce + quantifier
+
+
+(\w)\w+ (\w+)	\1. \2
+
+###############################################################
+
+More special search terms: \s \t \n . \d
+
+
+-9 59.8'S -157 58.2'W
++21 17.4'N +157 51.6'W
++38 30.5'N +28 17.2'W
++40 46.1'N +14 15.8'E
++10 24.8'N +51 21.9'E
+
+Challenge: 
+Get these degrees and minutes into tabular format so they can be put in a spreadsheet.
+
+
+###############################################################
+Introduce .
+escape \
+
+
+Exercise 1
+
+>CAA58790.1= green fluorescent protein [Aequorea victoria]
+MSKGEELFTGVVPILVELDGDVNGQKFSVRGEGEGDATYGKLTLKFICTTGKLPVPWPTLVTTFSYGVQCFSRYPDHMKQHDFLKSAMPEGYVQERTIFYKDDGNYKTRAEVKFEGDTLVNRIELKGIDFKEDGNILGHKMEYNYNSHNVYIMGDKPKNGIKVNFKIRHNIKDGSVQLADHYQQNTPIGDGPVLLPDNHYLSTQSALSQDPHGKRDHMVLLEFVTSAGITHGMDELYK
+>AAZ67342.1= GFP-like red fluorescent protein [Corynactis californica]
+MSLSKQVLPRDVKMRYHMDGCVNGHQFIIEGEGTGKPYEGKKILELRVTKGGPLPFAFDILSSVFTYGNRCFCEYPEDMPDYFKQSLPEGHSWERTLMFEDGGCGTASAHISLDKNCFVHKSTFHGVNFPANGPVMQKKTLNWEPSSELITAGDGILKGDVTMFLMLEGGHRLKCQFTTSYKAKKAVKMPPNHIIEHRLVRKEVADAVQIQEHAVAKHFIV
+>ACX47247.1= green fluorescent protein [Haeckelia beehleri]
+MEFEPEFFNKPVPLEMTLRGCVNGKEFMIFGKGEGDASKGNIKGKWILSHSEDGKCPMSWAVLAPTFAYGFKVFAKYPKDFAHFWQDCMPVGYSERRITRFGRLSGNDDIEQEGIMNTYHEVQMRERMVGDEITWIVESRVKLDATINENSPILMNDGLSEYRPNLERTVSFEDGLKNYSQFFYPIKDCETKDYIIANQMTHERPLSKCNKPGRLPPSHFKRTDLEQWKDSKEDKDHIVQEEITAFLLQAQDKDLQSLGIGM
+>ABC68474.1= red fluorescent protein [Discosoma sp. RC-2004]
+MRSSKNVIKEFMRFKVRMEGTVNGHEFEIEGEGEGRPYEGHNTVKLKVTKGGPLPFAWDILSPQFQYGSKVYVKHPADIPDYKKLSFPEGFKWERVMNFEDGGVVTVTQDPSLQDGCFIYKVKFIGVNFPSDGPVMQKKTMGWEASTERLYPRDGVLKGEIHKALKLKDGGHYLVEFKTIYMAKKPVQLPGYYYVDSKLDITSHNKDYTIVEQYERTEGRHHLFLKAELGSNVGER
+>AAQ01183.1= green fluorescent protein 1 [Pontellina plumata]
+MPAMKIECRISGTLNGVVFELVGGGEGIPEQGRMTNKMKSTKGALTFSPYLLSHVMGYGFYHFGTYPSGYENPFLHAANNGGYTNTRIEKYEDGGVLHVSFSYRYEAGRVIGDFKVVGTGFPEDSVIFTDKIIRSNATVEHLHPMGDNVLVGSFARTFSLRDGGYYSFVVDSHMHFKSAIHPSILQNGGSMFAFRRVEELHSNTELGIVEYQHAFKTPTAFA
+
+
+Challenge:
+Convert the headers from the format: >CAA58790.1= GFP [Aequorea victoria] 
+To: >CAA58790_Aequorea
+
+
+###############################################################
+Custom character sets with []
+
+21 17'24.68"N
+157 51'41.50"W
+38 30'36.62"N
+28 17'16.87"W
+8 59'53.30"S
+157 58'13.70"W
+10 24'47.84"N
+51 21'54.61"E
+22 52'41.65"S
+48 9'46.62"E
+
+Challenge: put lat lon on one line, convert compass to sign
+
+
+###############################################################
+
+Custom negated character sets with [^]
+
+ID	color	length	width
+1	lavender	34.2	423.5
+2	green	42.4	234.3
+3	indigo	55.2	345.2
+
+Given tab-delimited data...challenge:
+Swap columns 3 and 4
+
+###############################################################
+
+Boundaries
+
+Agalma elegans
+Frillagalma vitiazi
+Cordagalma tottoni
+Shortia galacifolia
+Mus musculus
+
+Challenge:
+Shorten to A. elegans format, without using space to find first word

@@ -1,0 +1,25 @@
+REGEXP TASKS:
+Common symbols
+Wildcards
+\w	letter, digit, or underscore
+\d	digit
+\t	tab
+\s	whitespace (tab or space)
+\n	newline
+.	any character
+^	anchor at beginning of line
+$	anchor at end of line
+
+# CUSTOM WILDCARDS
+[xyz]	match either x,y, or z
+[^xyz]  match anything except x,y,z (including newline!)
+
+# QUANTIFIERS
++	one or more of the previous character or wildcard
+*	zero or more of the previous character
+{2,3}	two or three of the prev char
+
+# CAPTURING
+()	capture
+\1	reuse captured text in replacement.
+

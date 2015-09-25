@@ -96,6 +96,28 @@ Reading - Tidy Data- http://vita.had.co.nz/papers/tidy-data.html ;
 Haddock and Dunn, chapter 1-3, pages 255-260;
 Murray chapter 3
 
+#### Tidy data
+
+See Haddock & Dunn Figure 15.1 for examples of messy and tidy data.
+
+Key points from Wickham's Tidy data paper:
+
+
+- *Tidy data* have the following properties: Each variable forms a column, each observation forms a row, each type of overvational unit forms a table.
+
+- *Melting* is the process of stacking data such that data from different columns is then in different rows. it results in a dataset with fewer columns and more rows. A completely moltedn dataset is a triple store (three columns that store object, attribute, and value).
+
+- *Casting* is the process of unstacking data so that information for a single observation that is spread across multiple rows is placed in multiple columns.
+
+- *Tidy tools* input tudy data and output tidy data. If you have tidy data and tidy tools, no munging is needed to format the output of one analysis step so that it is ready for the next analysis step. i.e., all your code relates is focused on analysis.
+
+- *Visualization* is the process of mapping variables to aesthetic attributes of a graph (eg, defining which variables specify position).
+
+#### Regular expressions
+
+See `regex` folder.
+
+
 ### October 2 - Executable manuscripts
 
 - markdown
