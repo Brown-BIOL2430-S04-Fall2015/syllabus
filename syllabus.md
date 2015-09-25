@@ -117,6 +117,16 @@ Key points from Wickham's Tidy data paper:
 
 See `regex` folder.
 
+#### Web fundamentals
+
+To view web sites locally, rather than just double click the html file it is best to run them through a web server. This makes sure that javascript etc renders correctly. The simplest is python's simple server:
+
+    cd website_dir/
+    python -m SimpleHTTPServer
+
+Where `website_dir` is the directory with your site files. Once it is running, enter the url (eg http://localhost:8000/) into your prowser to see the rendered page.
+
+Download the [example code](http://bit.ly/V25Xw6) for the Murray book expand it, then `cd` to the folder and launch the simple server. Explore the examples in your browser.
 
 ### October 2 - Executable manuscripts
 
