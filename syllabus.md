@@ -96,6 +96,10 @@ Reading - Tidy Data- http://vita.had.co.nz/papers/tidy-data.html ;
 Haddock and Dunn, chapter 1-3, pages 255-260;
 Murray chapter 3
 
+Before class, install:
+
+- [Sublime Text](http://www.sublimetext.com/3)
+
 #### Tidy data
 
 See Haddock & Dunn Figure 15.1 for examples of messy and tidy data.
@@ -130,9 +134,25 @@ Download the [example code](http://bit.ly/V25Xw6) for the Murray book expand it,
 
 ### October 2 - Executable manuscripts
 
+Reading: Murray chapters 2,4,5,6
+
+
+Before class, install:
+
+- [R](https://cran.cnr.berkeley.edu/)
+- [R Studio](https://www.rstudio.com/)
+- [knitr](http://yihui.name/knitr/), install via the R package manager rather than as a separate download
+- [pandoc](http://pandoc.org/)
+
+#### Executable manuscripts
+We will cover:
+
 - markdown
 - knitr
-- ipython notebook
+
+#### D3 continued
+
+The basics of drawing with data.
 
 ### October 9 - Principles of design and static data visualization
 
