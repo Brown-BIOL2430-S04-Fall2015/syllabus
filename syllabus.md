@@ -153,10 +153,11 @@ Markdown
 - [Bitbucket flavored markdown](https://bitbucket.org/tutorials/markdowndemo). This is a good general intro to the most commonly used features, and is consistent with most other flavors.
 - [`pandoc` flavored markdown](http://pandoc.org/demo/example9/pandocs-markdown.html). Includes functionality relevant to academics, eg bibliographies.
 - [Original markdown flavor](https://daringfireball.net/projects/markdown/).
+- There are a variety of realtime markdown editors, like [Mou](http://25.io/mou/).
 
 Executable manuscripts with knitr
 
-- R code is embedded in document text. Document text can be formatted with latex or markdown. So the document contains a mix of executable R and marked up text.
+- R code is embedded in document text. Document text can be formatted with latex or markdown. The document threfore contains a mix of executable R and marked up text. Markdown documents with embedded R code have a `.rmd` extension.
 - Document is executed with the R `knitr` package, which renders code and code output to latex or markdown. This produces a document that is just marked up text.
 - The marked up text document can then be rendered to another format, eg pdf, with a render engine like pandoc.
 - Most R code is in chunks, multiline code blocks, whose formatting can be controlled as a unit.
@@ -164,6 +165,7 @@ Executable manuscripts with knitr
 - R code can also be inline with text. This is useful for putting particular results right into sentences etc.
 - Many more details available in `knitr` [documentation](http://yihui.name/knitr/).
 - See [example](https://bitbucket.org/caseywdunn/executable_paper)
+- RStudio has native support for 
 
 
 #### D3 continued
