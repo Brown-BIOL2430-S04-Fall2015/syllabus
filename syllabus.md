@@ -144,6 +144,9 @@ Before class, install:
 - [knitr](http://yihui.name/knitr/), install via the R package manager rather than as a separate download
 - [pandoc](http://pandoc.org/)
 
+
+The two topics today have a lot in common. We embed R code in markdown documents that changes the document according to data when executed by knitr. We embed d3 javascript in html documents that changes the document according to data when executed by the browser.
+
 #### Executable manuscripts
 
 Markdown
@@ -177,6 +180,24 @@ The basics of drawing with data.
 ### October 9 - Principles of design and static data visualization
 
 Reading: Tufte (the whole book); Haddock and Dunn chapters 17-19
+
+#### Tufte discussion
+
+Different participants will discuss different chapters:
+
+1. Robert Lamb, Cat Munro
+2. Chris Arellano, Becca Wang
+3. Tyler Dae Devlin, Jack Diedrich
+4. Xiaojun Meng
+5. Alejandro Damian Serrano, Carlos Silva
+6. Yi (Jamie) Zhang, Bianca Brown
+7. Joaquin Nunez
+8. KC Cushman, Stephen Rong, Daniel Kunin
+9. Denise Yoon, Adam Spierer, Yun-hsuan 'Leslie' Lai
+
+
+
+#### Further discussion
 
 Raster vs. vector
 
