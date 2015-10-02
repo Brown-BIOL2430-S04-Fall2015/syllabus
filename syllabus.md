@@ -145,12 +145,29 @@ Before class, install:
 - [pandoc](http://pandoc.org/)
 
 #### Executable manuscripts
-We will cover:
 
-- markdown
-- knitr
+Markdown
+
+- A markup language for writing text that plays particularly well with executable manuscripts and git. Includes formating information for rendering to other file formats, eg pdf, html, or docx. But looks good as plain text too. Comes in several flavors.
+- `pandoc` is a great tool for rendering markdown to other formats. Can accommodate bibliographic data as well.
+- [Bitbucket flavored markdown](https://bitbucket.org/tutorials/markdowndemo). This is a good general intro to the most commonly used features, and is consistent with most other flavors.
+- [`pandoc` flavored markdown](http://pandoc.org/demo/example9/pandocs-markdown.html). Includes functionality relevant to academics, eg bibliographies.
+- [Original markdown flavor](https://daringfireball.net/projects/markdown/).
+
+Executable manuscripts with knitr
+
+- R code is embedded in document text. Document text can be formatted with latex or markdown. So the document contains a mix of executable R and marked up text.
+- Document is executed with the R `knitr` package, which renders code and code output to latex or markdown. This produces a document that is just marked up text.
+- The marked up text document can then be rendered to another format, eg pdf, with a render engine like pandoc.
+- Most R code is in chunks, code blocks denoted with `\`\`\`{r} ... \`\`\``, whose formatting can be controlled as a unit.
+- A variety of options are available to control what is done with chunks. `eval` specifies if the code is evaluated (ie, run). `echo` controls if the code itself is included in the final document. `include` controls if the results of running hte code (eg plots) are shown in the document.
+- R code can also be inline with text, using the `\`{r} ...\`` notation. This is useful for putting particular results right into sentences etc.
+- See example at 
+
 
 #### D3 continued
+
+There are a variety of great online courses for learning javascript. If you don't have experience with javascript, check them out. See, for example, the courses at [code agademy](https://www.codecademy.com/tracks/javascript) and [code school](https://www.codeschool.com/paths/javascript). 
 
 The basics of drawing with data.
 
