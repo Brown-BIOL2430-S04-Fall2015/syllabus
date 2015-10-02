@@ -159,10 +159,11 @@ Executable manuscripts with knitr
 - R code is embedded in document text. Document text can be formatted with latex or markdown. So the document contains a mix of executable R and marked up text.
 - Document is executed with the R `knitr` package, which renders code and code output to latex or markdown. This produces a document that is just marked up text.
 - The marked up text document can then be rendered to another format, eg pdf, with a render engine like pandoc.
-- Most R code is in chunks, code blocks denoted with `\`\`\`{r} ... \`\`\``, whose formatting can be controlled as a unit.
+- Most R code is in chunks, multiline code blocks denoted with <code>```{r} ... ```</code>, whose formatting can be controlled as a unit.
 - A variety of options are available to control what is done with chunks. `eval` specifies if the code is evaluated (ie, run). `echo` controls if the code itself is included in the final document. `include` controls if the results of running hte code (eg plots) are shown in the document.
-- R code can also be inline with text, using the `\`{r} ...\`` notation. This is useful for putting particular results right into sentences etc.
-- See example at 
+- R code can also be inline with text, using the <code>`r ...`</code> notation. This is useful for putting particular results right into sentences etc.
+- Many more details available in `knitr` [documentation](http://yihui.name/knitr/).
+- See [example](https://bitbucket.org/caseywdunn/executable_paper)
 
 
 #### D3 continued
