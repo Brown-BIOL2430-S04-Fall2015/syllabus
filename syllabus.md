@@ -181,6 +181,16 @@ The basics of drawing with data.
 
 Reading: Tufte (the whole book); Haddock and Dunn chapters 17-19
 
+#### Principle of design
+
+Visualization is the act of mapping data to aesthetic properties. The principles of design clarify which aesthetic properties we have to work with.
+
+Some examples:
+
+- [example](http://p2cdn3static.sharpschool.com/UserFiles/Servers/Server_2879574/File/teacher-documents/Performing_Visual_Arts/Middleton/2-D%20II/Elements%20and%20Principles%20Overview.jpg)
+- [example](http://paper-leaf.com/blog/2012/10/principles-of-design-quick-reference-poster/)
+
+
 #### Tufte discussion
 
 Different participants will discuss different chapters:
@@ -195,15 +205,17 @@ Different participants will discuss different chapters:
 8. KC Cushman, Stephen Rong, Daniel Kunin
 9. Denise Yoon, Adam Spierer, Yun-hsuan 'Leslie' Lai
 
+Counter point - Jer Thorp: I have millions of pixels
 
+#### Raster vs. vector
+
+- Time point 2:40 of http://acko.net/tv/pixelfactory/
 
 #### Further discussion
 
-Raster vs. vector
 
 Discussion points:
-- Principles of design
-- Fundamentals of interface design
+
 - Theory of data representation
 - Objectives, eg allowing the audience to imagine a place they could go to, exploring the sublime - http://www.studio360.org/story/how-hubble-brought-color-to-the-universe/
 
