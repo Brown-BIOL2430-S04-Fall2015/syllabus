@@ -214,17 +214,28 @@ Counter point - Jer Thorp: I have millions of pixels
 #### Further discussion
 
 
-Discussion points:
+Thoughts:
 
-- Theory of data representation
-- Objectives, eg allowing the audience to imagine a place they could go to, exploring the sublime - http://www.studio360.org/story/how-hubble-brought-color-to-the-universe/
+- Tufte's "minimum ink" is really about stripping out aesthetic elements that aren't mapped to data.
+- Sometime valuable to have ink that doesn't map to data when it improves the visual metaphore. eg, when longitude and latitude of data points are mapped to x y coordinates in a plot, geographical features help put the position aesthetic in context.
+- Sometime valuable to have ink that doesn't map to data when it succeeds in making the plot more visually compelling. Minimal isn't always the most beautiful, or most quickly understood.
+- "Minimum ink" is a very useful reference point. It defines what is essential to portraying the data. Good to figure out what that point is for your visualization, then back off of it as needed.
+- Dynamic plots allow more minimal visual style. With zoom/ filter/ details on demand, there can be less information on the screen at any given point in time for a visualization to convey the same amount of information overall.
+- Motion can be an aesthetic mapped to data (eg magnitude and frequency of jiggle). Or it can be for continuity in transitions, in which case motion can simplify the aesthetic representation of data since fewer mappings are shown in any given view.
 
-### October 16 - Static data visualization continued
-Reading: http://99percentinvisible.org/episode/future-screens-are-mostly-blue/, http://worrydream.com/ABriefRantOnTheFutureOfInteractionDesign/, 
 
-Suggested reading: https://www.youtube.com/watch?v=yJDv-zdhzMY, https://vimeo.com/71278954
+Best practices for modern media:
 
-Interface design 
+- Don't map any given datam to more than one aesthetic property. Creates redundancy.
+- Be deliberate about using aesthetic properties that don't map to data.
+- Minimize the number of aesthetic properties that map to data in any given view.
+- Be as consistent as possible about aesthetic mappings across views. eg, if different views depict different things on the y, use color in the same way across views.
+
+
+### October 16 - Tufte continued, d3 continued
+
+Reading: Tufte (all), Murray chapters 7-9.
+
 
 ### October 23 - Interactive data visualization
 
@@ -263,4 +274,13 @@ Project presentations
 ### December 11
 Project presentations
 
+
+
+### Other things (further reading, stuff that doesn't fit cleanly into above topics)
+
+Reading: http://99percentinvisible.org/episode/future-screens-are-mostly-blue/, http://worrydream.com/ABriefRantOnTheFutureOfInteractionDesign/, 
+
+Suggested reading: https://www.youtube.com/watch?v=yJDv-zdhzMY, https://vimeo.com/71278954
+
+Interface design 
 
