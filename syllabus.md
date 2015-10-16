@@ -290,3 +290,10 @@ Interface design
 ## Troubleshooting in d3
 
 - One of the most common set of bugs in d3 is due to the asynchronous nature of javascript. Don't assume that because you called code to load your data, that they are available when you go to use them. This is why it is best to call your visualization code from within the anonymous function called by your data loading, eg `d3.csv("data.csv", function(d){ visualize data here })`. If you are unsure whether your data are available, inspect them with `console.log()` right before you use them to see if they are populated. 
+
+- `select()` only selects the first matching element. If you want to do more, use `selectAll()`.
+
+## Useful javascript code to supplement d3
+
+- PCA, see the `pca()` function in http://bl.ocks.org/ktaneishi/9499896 .
+- Statistics libraries - http://jgoodall.me/posts/2012/02/01/javascript-statistical-libraries/ , http://simplestatistics.org/
