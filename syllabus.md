@@ -237,12 +237,21 @@ Best practices for modern media:
 
 Reading: Tufte (all), Murray chapters 7-9.
 
+Go through remaining Tufte chapters
 
+Overview of scales, axes, and transitions in d3. Exercises to manipulate code, starting with iris.
 
 
 ### October 23 - Interactive data visualization
 
-Reading: Murray (the whole book); Jer Thorpe video; Bret Victor video; "Visual Information-Seeking Mantra: overview first, zoom and filter, then details on demand." [Shneiderman 1996](http://www.mat.ucsb.edu/~g.legrady/academic/courses/11w259/schneiderman.pdf)
+Reading: Murray (the whole book); [Shneiderman 1996](http://www.mat.ucsb.edu/~g.legrady/academic/courses/11w259/schneiderman.pdf) - "Visual Information-Seeking Mantra: overview first, zoom and filter, then details on demand." 
+
+Watch in advance of class:
+- Fallen http://www.fallen.io/ww2/
+
+In class:
+
+Go over peoples' exercises.
 
 Dynamic interactions:
 
@@ -262,6 +271,10 @@ Imagine a VR movie without any constraint, where the audience could roam anywher
 
 
 ### October 30 - Interactive data visualization continued
+
+Watch in advance of class:
+- Jer Thorpe video https://www.ted.com/talks/jer_thorp_make_data_more_human
+- Bret Victor video https://vimeo.com/71278954
 
 ### November 6 - Topic To Be Determined
 
