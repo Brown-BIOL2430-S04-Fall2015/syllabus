@@ -237,7 +237,7 @@ Best practices for modern media:
 
 Reading: Tufte (all), Murray chapters 7-9.
 
-iris data example:  [https://htmlpreview.github.io/?https://bitbucket.org/caseywdunn/data_interaction/raw/master/exercises/iris/iris_scatter.html](https://htmlpreview.github.io/?https://bitbucket.org/caseywdunn/data_interaction/raw/master/exercises/iris/iris_scatter.html)
+
 
 
 ### October 23 - Interactive data visualization
