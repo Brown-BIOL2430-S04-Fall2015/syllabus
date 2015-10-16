@@ -219,6 +219,7 @@ Thoughts:
 - Tufte's "minimum ink" is really about stripping out aesthetic elements that aren't mapped to data.
 - Sometime valuable to have ink that doesn't map to data when it improves the visual metaphore. eg, when longitude and latitude of data points are mapped to x y coordinates in a plot, geographical features help put the position aesthetic in context.
 - Sometime valuable to have ink that doesn't map to data when it succeeds in making the plot more visually compelling. Minimal isn't always the most beautiful, or most quickly understood.
+- Sometimes redundant features that use more ink lead to more robust interpretation. eg, if oyu use the absolute minimum amount of ink, then any error will cahnge the meaining. If there is redundancy, then an error can be easilly spotted because it leads to inconsistency. 
 - "Minimum ink" is a very useful reference point. It defines what is essential to portraying the data. Good to figure out what that point is for your visualization, then back off of it as needed.
 - Dynamic plots allow more minimal visual style. With zoom/ filter/ details on demand, there can be less information on the screen at any given point in time for a visualization to convey the same amount of information overall.
 - Motion can be an aesthetic mapped to data (eg magnitude and frequency of jiggle). Or it can be for continuity in transitions, in which case motion can simplify the aesthetic representation of data since fewer mappings are shown in any given view.
@@ -235,6 +236,8 @@ Best practices for modern media:
 ### October 16 - Tufte continued, d3 continued
 
 Reading: Tufte (all), Murray chapters 7-9.
+
+iris data example:  [https://htmlpreview.github.io/?https://bitbucket.org/caseywdunn/data_interaction/raw/master/exercises/iris/iris_scatter.html](https://htmlpreview.github.io/?https://bitbucket.org/caseywdunn/data_interaction/raw/master/exercises/iris/iris_scatter.html)
 
 
 ### October 23 - Interactive data visualization
