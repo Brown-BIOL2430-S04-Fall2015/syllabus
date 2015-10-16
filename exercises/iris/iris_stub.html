@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<!--  -->
+<html lang="en">
+	<head>
+		<meta charset="utf-8">
+		<title>D3: Anderson's Iris</title>
+		<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/d3/3.5.6/d3.min.js"></script>
+		<style type="text/css">
+			
+			.axis path,
+			.axis line {
+				fill: none;
+				stroke: black;
+				shape-rendering: crispEdges;
+			}
+			
+			.axis text {
+				font-family: sans-serif;
+				font-size: 11px;
+			}
+
+		</style>
+	</head>
+	<body>
+	
+<h2> Introduction </h2>
+
+	<p>
+A visualization of <a href="https://en.wikipedia.org/wiki/Iris_flower_data_set">Anederson's iris data</a>. I backed the data out of R as follows:
+
+<pre>
+
+D = iris
+names(D) = c("SepalLength", "SepalWidth", "PetalLength", "PetalWidth", "Species" )
+write.csv(D, file = "iris.csv", row.names = FALSE)
+
+</pre>
+
+	</p>
+	
+		<script type="text/javascript">
+			iris_path = "https://bitbucket.org/caseywdunn/data_interaction/raw/master/exercises/iris/iris.csv"
+			d3.csv(iris_path, function(data){
+				
+				var colors = { "virginica":"blue", "versicolor":"red", "setosa":"green" }
+
+				var dataset = data.map(function(d) { 
+					// Manipulations of data (eg transforms, retyping) go here
+					// Orinal columns: "SepalLength", "SepalWidth", "PetalLength", "PetalWidth", "Species"
+
+					// To get a rectangular array of the data
+					return [ d.SepalLength, d.SepalWidth, d.PetalLength, d.PetalWidth, d.Species ]
+
+					// To get a vector of associative arrays
+					//return d;
+				});
+
+				// Add your visualization here
+
+				console.log(dataset)
+			});
+
+		</script>
+	</body>
+</html>
