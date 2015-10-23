@@ -269,6 +269,8 @@ Exploration needs to be very unconstrained, exposition requires that the author 
 
 Imagine a VR movie without any constraint, where the audience could roam anywhere they like. They would be far from all the key action and have no idea what the movie was "about". Maybe the best exposition is fully constrained. These trade-offs are well illustrated by http://www.fallen.io/ww2/ . 
 
+Tropes - [zoom and enhance](https://youtu.be/LhF_56SxrGk).
+
 
 ### October 30 - Interactive data visualization continued
 
