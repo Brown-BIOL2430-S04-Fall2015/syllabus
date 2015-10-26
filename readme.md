@@ -298,11 +298,13 @@ Project presentations
 
 ### Other things (further reading, stuff that doesn't fit cleanly into above topics)
 
-Reading: http://99percentinvisible.org/episode/future-screens-are-mostly-blue/, http://worrydream.com/ABriefRantOnTheFutureOfInteractionDesign/, 
 
-Suggested reading: https://www.youtube.com/watch?v=yJDv-zdhzMY, https://vimeo.com/71278954
+- http://99percentinvisible.org/episode/future-screens-are-mostly-blue/
 
-Interface design 
+- http://worrydream.com/ABriefRantOnTheFutureOfInteractionDesign/
+
+- https://www.youtube.com/watch?v=yJDv-zdhzMY
+
 
 ## Other tools
 
