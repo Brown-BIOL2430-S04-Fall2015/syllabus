@@ -293,10 +293,10 @@
 	},
 
 	{
-		"url":"",
-		"description":"",
-		"submitter":{"name":"", "url":""},
-		"implementation":[],
+		"url":"http://bedford.io",
+		"description":"Visualizations of biological data/principles",
+		"submitter":{"name":"Felipe Zapata", "url":"https://twitter.com/zapata_f"},
+		"implementation":["http://d3js.org"],
 		"attributes":[]
 	},
 
