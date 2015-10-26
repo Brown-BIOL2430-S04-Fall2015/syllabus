@@ -18,6 +18,8 @@ Science is becoming more data intensive, and at the same time new tools are allo
 
 Please complete the [survey](http://goo.gl/forms/wf8AyzW8nw) if you register for or intend to sit in on the seminar.
 
+This course is organized with [github education tools](https://education.github.com/guide).
+
 ## Class format
 
 Classes will consist of discussions, labs that examine particular tools tools, and student presentations. The schedule includes topics for each class, and conversation points to seed class discussions. There will be a strong focus on human perception as it relates to insight and on principles of design.
