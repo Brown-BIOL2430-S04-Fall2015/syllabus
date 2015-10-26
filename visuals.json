@@ -277,6 +277,70 @@
 	},
 
 	{
+		"url":"http://openconnecto.me/catmaid/",
+		"description":"Connectome Project",
+		"submitter":{"name":"Bianca Brown", "url":""},
+		"implementation":[],
+		"attributes":[]
+	},
+
+	{
+		"url":"",
+		"description":"",
+		"submitter":{"name":"", "url":""},
+		"implementation":[],
+		"attributes":[]
+	},
+
+	{
+		"url":"",
+		"description":"",
+		"submitter":{"name":"", "url":""},
+		"implementation":[],
+		"attributes":[]
+	},
+
+	{
+		"url":"",
+		"description":"",
+		"submitter":{"name":"", "url":""},
+		"implementation":[],
+		"attributes":[]
+	},
+
+	{
+		"url":"",
+		"description":"",
+		"submitter":{"name":"", "url":""},
+		"implementation":[],
+		"attributes":[]
+	},
+
+	{
+		"url":"",
+		"description":"",
+		"submitter":{"name":"", "url":""},
+		"implementation":[],
+		"attributes":[]
+	},
+
+	{
+		"url":"",
+		"description":"",
+		"submitter":{"name":"", "url":""},
+		"implementation":[],
+		"attributes":[]
+	},
+
+	{
+		"url":"",
+		"description":"",
+		"submitter":{"name":"", "url":""},
+		"implementation":[],
+		"attributes":[]
+	},
+
+	{
 		"url":"",
 		"description":"",
 		"submitter":{"name":"", "url":""},
