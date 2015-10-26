@@ -303,39 +303,15 @@
 	{
 		"url":"http://www.r2d3.us/visual-intro-to-machine-learning-part-1/",
 		"description":"Machine learning demo",
-		"submitter":{"name":"", "url":""},
+		"submitter":{"name":"Steve Haddock", "url":""},
 		"implementation":[],
 		"attributes":[]
 	},
 
 	{
-		"url":"",
-		"description":"",
-		"submitter":{"name":"", "url":""},
-		"implementation":[],
-		"attributes":[]
-	},
-
-	{
-		"url":"",
-		"description":"",
-		"submitter":{"name":"", "url":""},
-		"implementation":[],
-		"attributes":[]
-	},
-
-	{
-		"url":"",
-		"description":"",
-		"submitter":{"name":"", "url":""},
-		"implementation":[],
-		"attributes":[]
-	},
-
-	{
-		"url":"",
-		"description":"",
-		"submitter":{"name":"", "url":""},
+		"url":"http://histography.io",
+		"description":"Historical events from wikipedia",
+		"submitter":{"name":"Casey Dunn", "url":"https://twitter.com/caseywdunn"},
 		"implementation":[],
 		"attributes":[]
 	},
