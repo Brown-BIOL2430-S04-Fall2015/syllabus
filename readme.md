@@ -28,11 +28,17 @@ After the first meeting, and prior to the project presentations, the discussion 
 
 ## Course site
 
-All materials for the course, including the syllabus, are available at the [course site](https://bitbucket.org/caseywdunn/data_interaction). The [syllabus](https://bitbucket.org/caseywdunn/data_interaction/src/master/syllabus.md) will be updated as the course progresses, please check it weekly. Please submit suggestions and corrections for the class via the [issue tracker](https://bitbucket.org/caseywdunn/data_interaction/issues).
+All materials for the course, including the syllabus, are available at the [course site](https://github.com/Brown-BIOL2430-S04-Fall2015). The syllabus will be updated as the course progresses, please check it weekly. Please submit suggestions and corrections for the class via the [issue tracker](https://github.com/Brown-BIOL2430-S04-Fall2015/syllabus/issues).
 
 ## Projects
 
-Each student will create an interactive analysis/visualization based on their own work, publicly available data, or a published scientific paper. This project will presented in class at the end of the course. They will be developed and submitted in a git repository.
+Each student will create an interactive analysis/visualization based on their own work, publicly available data, or a published scientific paper. This project will presented in class at the end of the course. 
+
+Final projects will be developed and submitted in a git repository. Please fork the [boilerplate repository](https://github.com/Brown-BIOL2430-S04-Fall2015/finalproject) for the assignment, and follow section 3 of [these instructions](https://education.github.com/guide/forks).
+
+The preferred approach is to work on your final project in a public repository to make it easy for everyone to see it. If you have unpublished data that you don't want to put in a public repository, please talk with me and we'll come up with a solution.
+
+
 
 
 ## Reading
