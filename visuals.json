@@ -285,9 +285,9 @@
 	},
 
 	{
-		"url":"",
-		"description":"",
-		"submitter":{"name":"", "url":""},
+		"url":"http://flowingdata.com/2015/09/23/years-you-have-left-to-live-probably/",
+		"description":"Human mortality",
+		"submitter":{"name":"Casey Dunn", "url":"https://twitter.com/caseywdunn"},
 		"implementation":[],
 		"attributes":[]
 	},
