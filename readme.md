@@ -34,7 +34,7 @@ All materials for the course, including the syllabus, are available at the [cour
 
 Each student will create an interactive analysis/visualization based on their own work, publicly available data, or a published scientific paper. This project will presented in class at the end of the course. 
 
-Final projects will be developed and submitted in a git repository. Please fork the [boilerplate repository](https://github.com/Brown-BIOL2430-S04-Fall2015/finalproject) for the assignment, and follow section 3 of [these instructions](https://education.github.com/guide/forks).
+Final projects will be developed and submitted in a git repository. Please fork the [boilerplate repository](https://github.com/Brown-BIOL2430-S04-Fall2015/finalproject) for the assignment, and follow section 3 of [these instructions](https://education.github.com/guide/forks). After you fork the repository, please enable the issue tracker in the repository settings so that others in the class (including the professor) can provide feedback.
 
 The preferred approach is to work on your final project in a public repository to make it easy for everyone to see it. If you have unpublished data that you don't want to put in a public repository, please talk with me and we'll come up with a solution.
 
