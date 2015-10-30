@@ -288,6 +288,14 @@ Watch in advance of class:
 
 ![Too busy to improve](http://bjoern.brembs.net/wp/wp-content/uploads/2015/04/busy.jpg)
 
+Some other videos:
+
+- https://vimeo.com/36579366 "Creaters need an immediate connection to what they create... if you make a decision you need to see the effect of that right away."
+
+- https://vimeo.com/66085662 Excel is fixed structure, fill in our data dynamically. Illustrator is direct manipulation of flexible structure, not dynamically mapped to data. D3 is indirect manipulation of flexible structure with dynamic data interaction. Demonstrates the missing tool - direct manipulation of flexible structure with dynamic data interaction.
+
+- https://vimeo.com/67076984 Science - thinking that goes from system to theory. Engineering - thinking that goes from theory to system. We build instruments that adapt phenomena we can't percieve to our senses. We need tools to adapt unthinkable thoughts to the way our minds work. 
+
 ### November 6 - Guest lecture, final project
 
 Guest lecture - [Mark Howison](https://brown.edu/web/data-science/).
