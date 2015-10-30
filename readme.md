@@ -283,8 +283,10 @@ Tropes - [zoom and enhance](https://youtu.be/LhF_56SxrGk).
 ### October 30 - Interactive data visualization continued
 
 Watch in advance of class:
-- Jer Thorpe video https://www.ted.com/talks/jer_thorp_make_data_more_human
+- Jer Thorpe video https://www.ted.com/talks/jer_thorp_make_data_more_human . Data in a human context,
 - Bret Victor video https://vimeo.com/71278954
+
+![Too busy to improve](http://bjoern.brembs.net/wp/wp-content/uploads/2015/04/busy.jpg)
 
 ### November 6 - Guest lecture, final project
 
