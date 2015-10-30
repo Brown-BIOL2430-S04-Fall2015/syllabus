@@ -286,7 +286,9 @@ Watch in advance of class:
 - Jer Thorpe video https://www.ted.com/talks/jer_thorp_make_data_more_human
 - Bret Victor video https://vimeo.com/71278954
 
-### November 6 - Topic To Be Determined
+### November 6 - Guest lecture, final project
+
+Guest lecture - [Mark Howison](https://brown.edu/web/data-science/).
 
 ### November 13 - Open lab to work on projects
 
