@@ -304,6 +304,8 @@ Guest lecture - [Mark Howison](https://brown.edu/web/data-science/).
 
 ### November 20 - Summary, open discussion
 
+Gues lecture by Max Leiserson on [MAGI](http://magi.brown.edu/). 
+
 - How will lines blur between data management, exploration, explanation, and publishing?
 
 ### December 4
