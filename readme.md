@@ -304,7 +304,7 @@ Guest lecture - [Mark Howison](https://brown.edu/web/data-science/).
 
 #### (Pick your) reality
 
-An introduction to [Google Cardboard](https://www.google.com/get/cardboard/)
+An introduction to [Google Cardboard](https://www.google.com/get/cardboard/), including existing [development tools](http://www.storybench.org/how-to-make-a-simple-virtual-reality-data-visualization/).
 
 VR does a few things:
 
