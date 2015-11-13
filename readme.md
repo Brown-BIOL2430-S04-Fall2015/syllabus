@@ -300,7 +300,41 @@ Some other videos:
 
 Guest lecture - [Mark Howison](https://brown.edu/web/data-science/).
 
-### November 13 - Open lab to work on projects
+### November 13 - Virtual Reality, Augmented Reality, Open lab to work on projects
+
+#### (Pick your) reality
+
+An introduction to [Google Cardboard](https://www.google.com/get/cardboard/)
+
+VR does a few things:
+
+- Add a third spatial dimension
+- Use gestures for audience control of perspective
+
+Augmented reality:
+
+- Superimpose visuals on real world
+- Superimpose additional information
+- Make the unseen seen, eg map phenomena outside of our sensory range to our sensory range and put in immediate spatial and temporal context. [Magnetic Movie](https://vimeo.com/1166968)
+- Teleportation 
+- In eye, eg [Magic Leap](http://www.magicleap.com/#/home)
+- In world, eg [flat surface](https://vimeo.com/75260457), [3D objects](https://www.youtube.com/watch?v=j9JXtTj0mzE), 
+
+
+#### Collaborating on projects with git
+
+You can craft special urls to load html files in git repos as web pages, eg:
+
+    https://github.com/antropoteuthis/finalproject/blob/master/ISCPhyloecospace.html # github url
+    https://rawgit.com/antropoteuthis/finalproject/master/ISCPhylomorphospace.html   # as web page
+
+A couple ways to propose changes/ fixes/ suggestions:
+
+- issue tracker
+- fork the repository, make the change, and then issue a [pull request](https://help.github.com/articles/creating-a-pull-request/)
+
+
+
 
 ### November 20 - Summary, open discussion
 
