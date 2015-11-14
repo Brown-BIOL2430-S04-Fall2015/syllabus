@@ -336,11 +336,12 @@ A couple ways to propose changes/ fixes/ suggestions:
 
 
 
-### November 20 - Summary, open discussion
+### November 20 - Open lab to work on projects
 
-Gues lecture by Max Leiserson on [MAGI](http://magi.brown.edu/). 
+Guest lecture by Max Leiserson about his project [MAGI](http://magi.brown.edu/). 
 
-- How will lines blur between data management, exploration, explanation, and publishing?
+Please complete the first draft of your readme, and come to class prepared to talk for five minutes aabout the goals, status, and current challenges of your projects.
+
 
 ### December 4
 Project presentations
