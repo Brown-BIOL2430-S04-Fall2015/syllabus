@@ -347,6 +347,9 @@ Please complete the first draft of your readme, and come to class prepared to ta
 Project presentations
 
 ### December 11
+
+Visit by Sohini Ramachandran.
+
 Project presentations
 
 
