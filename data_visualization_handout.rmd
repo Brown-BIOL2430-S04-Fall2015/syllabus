@@ -1,11 +1,11 @@
 ---
-title: "R Notebook"
+title: "Data visualization"
 output: html_notebook
 ---
 
-# Data visualization
-
 A handout by [Casey Dunn](http://dunnlab.org)
+
+This page can be viewed at https://rawgit.com/Brown-BIOL2430-S04-Fall2015/syllabus/master/data_visualization_handout.nb.html
 
 
 ## What is data visualization?
