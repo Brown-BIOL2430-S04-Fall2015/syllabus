@@ -92,3 +92,95 @@ People can get very dogmatic and extreme about data visualization goals, particu
 
 - Because it is more beautiful and engaging to do so. Sometimes adding visual elements to a plot that don't map to data will lead to a more compelling and engaging visualization. To paraphrase Jer Thorpe - "I have millions of pixels on my screen, why does every single one need to map to data?"
 - Because it enhances a visual metaphore that leads to your visualization being more intuitive and familiar. For example, if your data are latitudes and longitudes, by all means superimpose them on an image of Earth, even though that image doesn't map to data.
+
+
+## Examples
+
+Simulate a dataset of three varaibles across 100 observations.
+
+```{r}
+set.seed(12345)
+  # Sigma = matrix(c(matrix(c(10,6,1,6,5,2,1,2,1),3,3)),3,3)
+  Sigma = matrix(c(matrix(c(2,-1,0,-1,2,-1,0,-1,2),3,3)),3,3)
+  D=data.frame(mvrnorm(n=100, mu=rep(0,3), Sigma))
+  names(D)=c("x", "y", "z")
+```
+
+
+Subset the data by plotting only 2 of the 3 variables.
+
+```{r}
+  library(ggplot2)
+
+  ggplot(D,
+    aes(y=y, x=x)) +
+    geom_point()
+```
+
+Map all three aesthetic attributes.
+
+```{r}
+  library(ggplot2)
+
+  ggplot(D,
+    aes(y=y, x=x, col=z)) +
+    geom_point()
+```
+
+
+```{r}
+  library(ggplot2)
+
+  ggplot(D,
+    aes(y=y, x=x, size=z)) +
+    geom_point()
+```
+
+
+
+
+Map y to multiple aesthetic attributes.
+
+```{r}
+  library(ggplot2)
+
+  ggplot(D,
+    aes(y=y, x=x, col=y)) +
+    geom_point()
+```
+
+```{r}
+  library(ggplot2)
+
+  ggplot(D,
+    aes(y=y, x=x, size=y)) +
+    geom_point()
+```
+
+```{r}
+  library(ggplot2)
+
+  ggplot(D,
+    aes(y=y, x=x, size=y, col=y)) +
+    geom_point()
+```
+
+Add aesthetic attributes that aren't mapped to data.
+
+```{r}
+
+library(png)
+library(grid)
+
+img <- readPNG("figures/cat.png")
+g <- rasterGrob(img, interpolate=TRUE) 
+
+
+  ggplot(D,
+    aes(y=y, x=x)) +
+    geom_point() +
+    #facet_grid(.~Place) + 
+    theme_bw() +
+    annotation_custom(g, xmin=-Inf, xmax=Inf, ymin=-Inf, ymax=Inf)
+
+```
