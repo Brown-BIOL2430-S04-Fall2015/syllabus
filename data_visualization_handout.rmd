@@ -62,21 +62,23 @@ There are a few reasons you may want to reduce data before visualization:
 - It isn't technically feasible to show all the data
 
 One way to reduce the data is to exclude particular observations:
-- Exclude some observations randomly, eg to rarify the data
+
+- Exclude some observations randomly, eg to rarefy the data
 - Exclude some observations based on their values, eg exclude data points with large values to focus on what is happening with data points with smaller values. In this sense zooming and cropping is a form of data reduction.
 
-Alternatively, one can exlude or reduce the number of variables:
+Alternatively, one can exclude or reduce the number of variables:
+
 - You may just be interested in a subset of variables for each observation, and only show those.
 - You may ramap higher dimensional data to a lower number of dimensions. For example, PCA rotates the data to show the axes with the greatest variance. Often PCA axes with low variance are then discarded.
 
 
 ### Which aesthetic properties should I map the data to?
 
-A big part of answering this question depends on what the final medium of the visualization is. For example, print is generally more constraining than web. Position, size, and color are typically the easiest attributes to quickly interpret. In general use these before considering other attibutes.
+A big part of answering this question depends on what the final medium of the visualization is. For example, print is generally more constraining than web. Position, size, and color are typically the easiest attributes to quickly interpret. In general use these before considering other attributes.
 
 ### Should there be auesthetic attributes that are not mapped to data?
 
-Visualizations can also contain easthetic elements that are not mapped to data. These include axes, labels, background images, tic marks, drop shaddows, legends, and a variety of decorations.
+Visualizations can also contain aesthetic elements that are not mapped to data. These include axes, labels, background images, tic marks, drop shadows, legends, and a variety of decorations.
 
 The value of these added elements is often overestimated and the cost underestimated. The main cost is distraction. Approach this decision by deciding what is absolutely necessary, and then carefully considering the value of each added item. If there is little or no added value don't add the element. 
 
@@ -85,18 +87,18 @@ The value of these added elements is often overestimated and the cost underestim
 Here is some general advice that applies in post situations:
 
 1. Reduce the number of visual elements that aren't mapped to the data. This corresponds to Tufte's concept of "minimal ink". Axes and labels should be simple. If a visual element doesn't change when the data changes, ask yourself if you really need it.
-2. Don't map the same data attribute to multiple aesthetic attributes (eg, size and color of a point). This increases the cognitive load of interpretting the visualization without providing added value.
-3. If you are reducing the data, you are essentially looking at a shaddow of the data. Different objects can cast the same shaddow, so there is a stong possibility that you could miss important features of the data. Reduce the data in several different ways to cast a shaddow from different angles to test your assumptions about what you can't see in each particular visualization.
+2. Don't map the same data attribute to multiple aesthetic attributes (eg, size and color of a point). This increases the cognitive load of interpreting the visualization without providing added value.
+3. If you are reducing the data, you are essentially looking at a shadow of the data. Different objects can cast the same shadow, so there is a strong possibility that you could miss important features of the data. Reduce the data in several different ways to cast a shadow from different angles to test your assumptions about what you can't see in each particular visualization.
 
-People can get very dogmatic and extreme about data visualization goals, particularly in the paplication of points 1 and 2 above. As with any artform, interesting and productive things can happen when you break the "rules". Just because it is often a bad idea to break the rules doesn't mean it is always bad to break the rules. Here are a couple reasons to break the rules:
+People can get very dogmatic and extreme about data visualization goals, particularly in the application of points 1 and 2 above. As with any art form, interesting and productive things can happen when you break the "rules". Just because it is often a bad idea to break the rules doesn't mean it is always bad to break the rules. Here are a couple reasons to break the rules:
 
 - Because it is more beautiful and engaging to do so. Sometimes adding visual elements to a plot that don't map to data will lead to a more compelling and engaging visualization. To paraphrase Jer Thorpe - "I have millions of pixels on my screen, why does every single one need to map to data?"
-- Because it enhances a visual metaphore that leads to your visualization being more intuitive and familiar. For example, if your data are latitudes and longitudes, by all means superimpose them on an image of Earth, even though that image doesn't map to data.
+- Because it enhances a visual metaphor that leads to your visualization being more intuitive and familiar. For example, if your data are latitudes and longitudes, by all means superimpose them on an image of Earth, even though that image doesn't map to data.
 
 
 ## Examples
 
-Simulate a dataset of three varaibles across 100 observations.
+Simulate a dataset of three variables across 100 observations.
 
 ```{r}
 set.seed(12345)
@@ -179,7 +181,6 @@ g <- rasterGrob(img, interpolate=TRUE)
   ggplot(D,
     aes(y=y, x=x)) +
     geom_point() +
-    #facet_grid(.~Place) + 
     theme_bw() +
     annotation_custom(g, xmin=-Inf, xmax=Inf, ymin=-Inf, ymax=Inf)
 
