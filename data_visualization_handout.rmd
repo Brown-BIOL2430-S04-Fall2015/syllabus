@@ -3,6 +3,12 @@ title: "Data visualization"
 output: html_notebook
 ---
 
+```{r}
+  library(ggplot2)
+  library(MASS)
+  library(magrittr)
+```
+
 A handout by [Casey Dunn](http://dunnlab.org)
 
 This page can be viewed at https://rawgit.com/Brown-BIOL2430-S04-Fall2015/syllabus/master/data_visualization_handout.nb.html
@@ -112,7 +118,6 @@ set.seed(12345)
 Subset the data by plotting only 2 of the 3 variables.
 
 ```{r}
-  library(ggplot2)
 
   ggplot(D,
     aes(y=y, x=x)) +
